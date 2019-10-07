@@ -1,4 +1,4 @@
-# GroupNo4-Determine-depression-quotient-and-suicidal-behavior-using-machine-learning-techniques
+Determine-depression-quotient-and-suicidal-behavior-using-machine-learning-techniques
 
 The training dataset is expected to be a csv file of type tweet_id,sentiment,tweet where the tweet_id is a unique integer identifying the tweet, sentiment is either 1 (positive) or 0 (negative), and tweet is the tweet enclosed in "". Similarly, the test dataset is a csv file of type tweet_id,tweet. Please note that csv headers are not expected and should be removed from the training and test datasets.
 
